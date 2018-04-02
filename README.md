@@ -2,5 +2,5 @@
 Novo site para a empresa IFJr Soluções.
 
 Contribuidores:
-Matheus Giovanni Lucena
-Vinícius José Ribeiro de Oliveira
+Matheus Giovanni Lucena;
+Vinícius José Ribeiro de Oliveira;
